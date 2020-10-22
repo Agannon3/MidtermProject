@@ -1,0 +1,38 @@
+body{
+    background-color: pink;
+    background-size: cover;
+    background-image: url("heartbanner1.png");
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+h1 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 50px;
+    margin: 20px;
+
+}
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-size: 70px;
+    margin: 40px;
+
+}
+
+p {
+    font-family: 'Hind Siliguri', sans-serif;
+    font_size: 40px;
+    color: white;
+    line-height: 50px;
+    font_size: 40px;
+    padding: 20px
+}
+.paragraph{
+    color: white;
+    font-size: 40px;
+    font-family: 'Hind Siliguri', sans-serif;
+}

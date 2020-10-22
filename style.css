@@ -1,0 +1,101 @@
+
+.paragraph {
+font-family: 'Hind Siliguri', sans-serif;
+line-height: 50px;
+font_size: 40px;
+padding: 20px
+}
+
+h1 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 50px;
+    margin: 20px;
+
+}
+h1 {
+    color: white;
+
+}
+
+h2 {
+font-family: 'Hind Siliguri', sans-serif;
+line-height: 40px;
+font_size: 20px;
+p.dotted border-style: dotted;
+}
+
+h2 {
+    color: white;
+    font-size: 70px;
+    margin: 40px;
+
+}
+
+
+body{
+    background-color: pink;
+    background-size: cover;
+    background-image: url("cardiac.png");
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+
+.paragraph{
+    color: white;
+    font-size: 40px;
+}
+
+
+
+
+
+
+/*I got this buttons design from we3schools.com, I saw something I like and used it as template
+for my site */
+/* Style the tab buttons */
+
+.tablink {
+  background-color: pink;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+
+}
+
+
+/* Change background color of buttons on hover */
+
+.tablink:hover {
+  background-color: #777;
+}
+
+
+/* Set default styles for tab content */
+
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 50px;
+  text-align: center;
+}
+
+
+
+/* Style each tab content individually */
+#Prevention {background-color:pink;}
+#Risk Factors {background-color:pink;}
+#Stroke {background-color:pink;}
+#Heart Attack {background-color:pink;}
+
+
+.gif{
+    height: 200px;
+    margin: 0px;
+}
